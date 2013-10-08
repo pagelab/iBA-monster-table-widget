@@ -2,7 +2,8 @@ iBA-monster-table-widget
 ========================
 
 Widget para apresentação de tabelas gigantescas no iBooks Author
-*Widget for presentation of huge tables in iBooks Author*
+
+*A widget for presentation of huge tables in iBooks Author*
 
 Um dos problemas do iBooks Author é a limitação na apresentação de tabelas com um número muito elevado de colunas ou linhas. O recurso padrão do programa não é uma boa opção nesses casos. 
 
