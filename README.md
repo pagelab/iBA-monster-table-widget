@@ -32,10 +32,19 @@ Este widget oferece uma solução para esse problema, embutindo a tabela em um w
 ##Pré-visualização do widget
 Ao inserir 
 
+
+##Licença
+Este widget utiliza código do plugin JQuery Datatables, portanto, a licença do mesmo se aplica ao código do wdiget. Um resumo:
+
+*Nenhuma atribuição é necessária;
+*Qualquer tipo de problema causado pelo código não implica em nenhuma responsabilidade por parte dos desenvolvedores do código. 
+*Não e permitida a venda da plugin/widget, mas eles podem ser utilizados livremente em projetos comerciais sem necessidade de pagamento ou atribuição aos autores.
+
 ## Agradecimentos
 
 Esta solução se baseia no código de vários excelentes projetos pela web. Agradecimentos a:
 
+* [Data Tables JQuery Widget](http://datatables.net/index)
 * [Scrolling iBooks HTML Widget Boilerplate] (https://github.com/edwilde/iBooks-HTML-Widget-Boilerplate)
 * [jQuery custom content scroller](http://manos.malihu.gr/jquery-custom-content-scroller/)
 * 
